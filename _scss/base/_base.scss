@@ -1,0 +1,13 @@
+// base sytles and site specific resets
+
+// apply a natural box layout model to all elements, but allowing components to change
+html {
+  box-sizing: border-box;
+  //font-family: $font--sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}

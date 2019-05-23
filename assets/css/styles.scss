@@ -1,0 +1,20 @@
+---
+# yar
+---
+
+// main imports
+
+// vendor
+@import "vendor/normalize";
+@import "vendor/syntax";
+
+// base
+@import "base/base";
+@import "base/variables";
+@import "base/typography";
+
+// layout
+@import "layout/layout";
+@import "layout/header";
+@import "layout/nav";
+@import "layout/footer";
