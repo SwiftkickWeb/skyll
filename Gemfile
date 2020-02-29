@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "rake", "~> 12.3.1"
+gem "rake", "~> 12.3.3"
 gem "jekyll", "~> 3.8.5"
 gem "jekyll-sitemap", "~> 1.2"
 gem "jekyll-autoprefixer"
